@@ -2,6 +2,9 @@
 
 Este repositorio tiene como objetivo repasar conceptos básicos del lenguaje C, incluyendo el manejo de C-strings, arreglos, y estructuras. Se realizaron diversas actividades, las cuales se describen a continuación.
 
+### Autores:
+- **Bottini, Franco Nicolas**
+
 ### 1. C-strings
 
 **Obtención de información sobre la memoria RAM**
